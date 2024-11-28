@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC_Custom_Validation.props" />
+</Project>
